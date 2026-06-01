@@ -2,7 +2,7 @@
 
 Detecting AI-generated product images on the Etsy marketplace using transfer learning and end-to-end fine-tuning. Industry-partnered challenge with Etsy — CSC1187 Advanced Machine Learning, DCU, Spring 2026.
 
-📄 View full notebooks on nbviewer: [Phase 2](https://nbviewer.org/github/shubin-li/etsy-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb) | [Phase 1&3](https://nbviewer.org/github/shubin-li/etsy-ai-image-detection/blob/main/AdvMLProject_Phase1%263.ipynb) — if GitHub fails to render
+📄 View full notebooks on nbviewer: [Phase 2](https://nbviewer.org/github/shubin-li/etsy-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb) — if GitHub fails to render
 
 > **Note:** This project was conducted under NDA with Etsy. The dataset is proprietary and cannot be shared. Only source code and the report are included in this repository.
 
