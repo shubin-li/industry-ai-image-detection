@@ -1,7 +1,6 @@
 # Etsy AI-Generated Image Detection
 
-Detecting AI-generated product images on the Etsy marketplace using transfer learning and end-to-end fine-tuning. Industry-partnered challenge with Etsy — CSC1187 Advanced Machine Learning, DCU, Spring 2026.
-
+Detecting AI-generated product images on the Etsy marketplace using transfer learning and end-to-end fine-tuning. Industry-partnered NDA project — Dublin City University, 2026.
 > ⚠️ **GitHub may fail to render large notebooks.** View Phase 2 on [nbviewer](https://nbviewer.org/github/shubin-li/etsy-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb)
 
 > **Note:** This project was conducted under NDA with Etsy. The dataset is proprietary and cannot be shared. Only source code and the report are included in this repository.
