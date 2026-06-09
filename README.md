@@ -1,15 +1,15 @@
 # AI-Generated Image Detection
 
 Detecting AI-generated product images using transfer learning and end-to-end fine-tuning. Industry-partnered NDA project — Dublin City University, 2026.
-> ⚠️ **GitHub may fail to render large notebooks.** View Phase 2 on [nbviewer](https://nbviewer.org/github/shubin-li/etsy-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb)
+> ⚠️ **GitHub may fail to render large notebooks.** View Phase 2 on [nbviewer](https://nbviewer.org/github/shubin-li/industry-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb)
 
-> **Note:** This project was conducted under NDA with Etsy. The dataset is proprietary and cannot be shared. Only source code and the report are included in this repository.
+> **Note:** This project was conducted under NDA with an industry partner. The dataset is proprietary and cannot be shared. Only source code and the report are included in this repository.
 
 ---
 
 ## Background
 
-Etsy is a global two-sided marketplace connecting millions of independent sellers with buyers. With the rise of generative models (Midjourney, DALL-E, Stable Diffusion), some sellers have begun using AI-generated images to misrepresent product listings. This project addresses the challenge of automatically detecting such images to protect marketplace integrity.
+With the rise of generative models (Midjourney, DALL-E, Stable Diffusion), some sellers on e-commerce platforms have begun using AI-generated images to misrepresent product listings. This project, conducted in partnership with a major online marketplace under NDA, addresses the challenge of automatically detecting such images to protect marketplace integrity.
 
 The task is framed as a **binary image classification** problem:
 
@@ -76,7 +76,7 @@ Three-model ensemble (EfficientNetV2-S + FFT branch, ConvNeXt-Small, ConvNeXt-Ba
 
 ## Dataset
 
-The dataset (~4,800 training images, ~2,058 test images) was provided by Etsy under NDA and is **not included** in this repository. The images contain a mix of authentic product photographs and AI-generated images from various generative models.
+The dataset (~4,800 training images, ~2,058 test images) was provided by the industry partner under NDA and is **not included** in this repository. The images contain a mix of authentic product photographs and AI-generated images from various generative models.
 
 ## Authors
 
