@@ -3,8 +3,7 @@
 Detecting AI-generated product images using transfer learning and end-to-end fine-tuning. Industry-partnered NDA project — Dublin City University, 2026.
 > ⚠️ **GitHub may fail to render large notebooks.** View Phase 2 on [nbviewer](https://nbviewer.org/github/shubin-li/industry-ai-image-detection/blob/main/AdvMLProject_Phase2.ipynb)
 
-> **Note:** This project was conducted under NDA with an industry partner. The dataset is proprietary and cannot be shared. Only source code and the report are included in this repository.
-
+> **Note:** This project was conducted under NDA with an industry partner. The dataset is proprietary and cannot be shared. Only source code is included in this repository. Full project report available upon request.
 ---
 
 ## Background
